@@ -29,8 +29,6 @@ foreach($array as $key => $value){
     }
 
     echo "\n";
-
-
 }
 
 ?>
